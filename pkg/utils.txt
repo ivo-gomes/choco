@@ -1,0 +1,7 @@
+# Installs a set of daily use utilities. This list focuses mainly on open-source and lightweight software.
+
+firefox
+7zip
+sumatrapdf
+keepasss
+bleachbit

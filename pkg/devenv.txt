@@ -1,0 +1,17 @@
+# Defines a base development environment (runtimes, SDKs, tools, etc.) for PRIMAVERA R&D engineering.
+
+dotnetcore-sdk
+nodejs
+python3
+jre8
+git
+vscode
+sql-server-management-studio
+microsoftazurestorageexplorer
+microsoft-windows-terminal
+notepadplusplus
+docker-desktop
+postman
+astrogrep
+curl
+wget
