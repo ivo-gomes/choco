@@ -1,7 +1,7 @@
 # Defines a base development environment (runtimes, SDKs, tools, etc.) for PRIMAVERA R&D engineering.
 
-dotnetcore-sdk
-nodejs
+dotnet-sdk
+nodejs-lts
 python3
 jre8
 git
